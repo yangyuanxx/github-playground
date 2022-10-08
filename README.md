@@ -6,4 +6,4 @@ TODO
 - [x] Create an issue
 - [x] Add a TODO list in README.md
 - [x] Create a pull request
-- [ ] Recommend modify for PR
+- [x] Recommend modify for PR
